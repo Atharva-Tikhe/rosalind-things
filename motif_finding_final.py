@@ -1,5 +1,4 @@
 import time
-
 actual_index = 0 # using this makes it easier to globalize the current index
 results = []
 
